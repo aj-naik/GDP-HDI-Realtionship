@@ -23,7 +23,7 @@ A change in GDP per capita of a country is highly related to its HDI score.
 
 From the plots we can understand that an increase in GDP per capita meaning an increase in average income of people of a country will provide overall better lifestyle to the people giving them better access to resources, healthcare, education, etc which in turn will lead to a high HDI score for the country. The opposite also holds true i.e. Countires with lower GDP per capita will have a lower HDI score.
 
-# Improvements to be made
+# Improvements to be done
 - Optimise code so that any number of countries can be selected instead of current limit of 4.
 - Refactor code by creating functions for plot generation to avoid repetition of code. This will lead to optimisation of code and reduction in size of code and will make the code portable.
 - Create dashboard for the project.
